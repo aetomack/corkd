@@ -9,7 +9,11 @@ Get artists and creatives more reliable access to art partrons.
 
 # Problem (as described by an artist friend of mine)
 - How are openings advertised?
-  - A few main-stream platforms (Backstage, Actors Access**, Playbill Job Listings). 
+  - A few main-stream platforms
+    1. Backstage
+    2. Actors Access (primary?)
+    3. Playbill (people like this)
+      - Usually apply via email, airtable/google form
   - Facebook groups.
   - Word of mouth
 - How do people do outreach?
@@ -19,7 +23,11 @@ Get artists and creatives more reliable access to art partrons.
   - On-site casting calls/sending in tapes
 - Issues with existing?
   - Outdated, janky. 
-  - Actors Access (primary playform) you have to pay for submissions, also pay subscription
+  - Actors Access (primary playform) you have to pay for submissions, also pay subscription ($10/month)
+- Distinction between equity/non-equity:
+  - Equity actors are unionized-- lots of protections regarding applications, how to host auditions.
+  - Nonequity is a FFA-- can audition for anything, but gamble regarding pay, negotiations, protections.
+    - *Provide stability to nonequity actors?*
 
 # Approach
 - Arists hate AI. But we can empower them to succeed by improving their outreach and client sourcing.
