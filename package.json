@@ -45,7 +45,10 @@
 		"svelte"
 	],
 	"dependencies": {
-		"carbon-components-svelte": "^0.110.1"
+		"carbon-components-svelte": "^0.110.1",
+		"dotenv": "^17.4.2",
+		"drizzle-orm": "^1.0.0-rc.4",
+		"postgres": "^3.4.9"
 	},
 	"allowScripts": {
 		"fsevents@2.3.3": true,
