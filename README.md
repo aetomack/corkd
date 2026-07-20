@@ -1,11 +1,13 @@
 # Goal
-Get artists and creatives more reliable access to art partrons.
+Get artists and creatives more reliable access to opportunities and outreach. 
+- Digital artist agent
 
 # Intuition
-- Warm and reliable leads between sales can be few and far between. In more business terms, TAM is large, but SAM and SOM shrink considerably for artists. 
-- Art, especially physical art, is very important to me. 
+- Warm and reliable leads between physical art sales can be few and far between. In more business terms, TAM is large, but SAM and SOM shrink considerably for artists. 
 - In a digital age (and an AI age), it's increasingly difficult for artists to distribute their art. Maybe a long time ago social media was a boon, but saturation makes connecting with audiences difficult, and being an influencer is now part of the job a lot of artists were never interested in. 
 **Creatives need warm, direct leads to patrons with whom they can connect**
+- For musicians, open calls are in outdated platforms and decentralized. Jobright for musicians?
+- Narrow focus: Dashboard that consolidates leads on jobs and helps with outreach campaigns? 
 
 # Problem (as described by an artist friend of mine)
 - How are openings advertised?
