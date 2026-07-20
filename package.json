@@ -35,9 +35,11 @@
 		"@sveltejs/kit": "^2.63.0",
 		"@sveltejs/package": "^2.5.8",
 		"@sveltejs/vite-plugin-svelte": "^7.1.2",
+		"drizzle-kit": "^1.0.0-rc.4",
 		"publint": "^0.3.21",
 		"svelte": "^5.56.1",
 		"svelte-check": "^4.6.0",
+		"tsx": "^4.23.1",
 		"typescript": "^6.0.3",
 		"vite": "^8.0.16"
 	},
@@ -52,6 +54,8 @@
 	},
 	"allowScripts": {
 		"fsevents@2.3.3": true,
-		"carbon-components-svelte@0.110.1": true
+		"carbon-components-svelte@0.110.1": true,
+		"esbuild@0.25.12": true,
+		"esbuild@0.28.1": true
 	}
 }
